@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="angular2maven:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="angular2.war">
+      <element id="artifact" artifact-name="angular2maven:war exploded" />
+    </root>
+  </artifact>
+</component>
